@@ -9,7 +9,7 @@
 include('./simple_html_dom.php');
 
 const line = "\r\n";
-const site = 'http://php.net/manual/zh/';    //外链站点 //也可设为本地衔接 例: file:///D:/Temp/php-chunked-xhtml/
+const site = 'http://php.net/manual/es/';    //外链站点 //也可设为本地衔接 例: file:///D:/Temp/php-chunked-xhtml/
 define('in', __DIR__ . '\..\raw\php-chunked-xhtml\\');
 define('temp', __DIR__ . '\..\raw\temp\\');
 
